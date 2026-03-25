@@ -58,23 +58,7 @@
 - [“Recursos img entre otros”](#8)
 - [“Las tools que armé son 3”](#9)   
 
- 
 
-<br>
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
-
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qZDE2NG00dmdxMzBvbzJmOHJycnplYWZwZmNrZTdpcTVyNXM5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eyjs7st5OcMXSw7mjV/giphy.gif" width = 80px>  </picture> Investigación propia
-
-#  3
-
-**En esta sección se encuentra un breve resumen de la investigación que realicé, de la cual aprendí mucho conocimiento que desconocía anteriormente y quiero compartirlo, ya que me ayudó a comprender mucho mejor y tener una base sólida para poder leer luego los 200 informes de análisis de JavaScript y entenderlos más rápido.
-Además, me permitió identificar en qué áreas me faltaba más conocimiento o debía repasar.<br>
-La parte relacionada con herramientas y sitios web la dejaré en la sección de informes, y todo lo que aprendí leyendo esos 200 informes lo dividiré en tres categorías: texto, tips/consejos y herramientas (tools).**<br><br>
-
-
-
-## 
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
