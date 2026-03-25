@@ -28,12 +28,12 @@
 <br>
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWszdnRxemtoaG41Y3k3dGxpY3l3b20zZ3AxcGpoNnVreWQyaHluOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIRyg2WRR8WJTNyTNk/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src =   "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d2a2l4NWpuNThydWE4eDlsYmF4aG92ZzJ6ZWJlZ2t1Y3loeGQ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVXnlKaR2fHc0b70MU/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **Su objetivo es detectar fugas de información y superficies de ataque ocultas tras errores 403 Forbidden antes de que un atacante externo las explote.** 
 
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d2a2l4NWpuNThydWE4eDlsYmF4aG92ZzJ6ZWJlZ2t1Y3loeGQ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVXnlKaR2fHc0b70MU/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWszdnRxemtoaG41Y3k3dGxpY3l3b20zZ3AxcGpoNnVreWQyaHluOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIRyg2WRR8WJTNyTNk/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Permite descubrir endpoints no documentados o restringidos.<br><br>
   • Facilita encontrar parámetros vulnerables a XSS, IDOR, SSRF o RCE.<br><br>
   • Ayuda a identificar claves duras en el código (AWS, Firebase, API keys).<br><br>
