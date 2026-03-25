@@ -11,12 +11,11 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3ZHMzbDdvc3Q4bnJtd3d0Y3BwNHNucGh5NG02MWcxNHpxdWp4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/njQOl2ZDhznxW60OBK/giphy.gif" width = 75px>  </picture> Analisis de archivos .js
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDltMTlyZXgzaWExd3dzNGcwNGFhc2kyenpqeWx2ZHhnZ2Rwd3c1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmUYzs2dIvMw4EBFx4/giphy.gif" width = 75px>  </picture> 403 Bypass
 
 <br>
 
- **Análisis de archivos .js. Proceso enfocado en revisar, mapear y comprender el código JavaScript de una aplicación para identificar vectores de ataque potenciales. Incluye la detección de funciones sensibles, endpoints ocultos, parámetros interesantes, lógica de validación, fugas de datos y posibles superficies para XSS, DOM Clobbering, prototipo pollution o bypass de seguridad.<br><br>
-Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante la fase de recon y explotación, revelando rutas y comportamientos que no están expuestos directamente en la interfaz de la aplicación.** 
+ **"403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles.** 
 <br><br> 
 
 <p align="center">
@@ -29,12 +28,12 @@ Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante
 <br>
 
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY0OTR3bm96dnoyYXVmcG13dnduYXk3ZDI2NjhnNzN0bXM4NDM1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fy6biuVnGGiZq9Tqwt/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
-**Detecta fugas de información y superficies ocultas de ataque antes de que lo haga un atacante. Permite descubrir rutas internas, parámetros sensibles y lógica vulnerable que no está visible en la interfaz.** 
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWszdnRxemtoaG41Y3k3dGxpY3l3b20zZ3AxcGpoNnVreWQyaHluOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIRyg2WRR8WJTNyTNk/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+**Su objetivo es detectar fugas de información y superficies de ataque ocultas tras errores 403 Forbidden antes de que un atacante externo las explote.** 
 
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVnZDh5OWl5Y3dzeTUzYWhqMTZ5NzRwbTZqMHIyNTJldnZiazR2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7Il3mkCCwggaGzExC/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d2a2l4NWpuNThydWE4eDlsYmF4aG92ZzJ6ZWJlZ2t1Y3loeGQ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVXnlKaR2fHc0b70MU/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Permite descubrir endpoints no documentados o restringidos.<br><br>
   • Facilita encontrar parámetros vulnerables a XSS, IDOR, SSRF o RCE.<br><br>
   • Ayuda a identificar claves duras en el código (AWS, Firebase, API keys).<br><br>
