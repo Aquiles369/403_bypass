@@ -11,11 +11,11 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDltMTlyZXgzaWExd3dzNGcwNGFhc2kyenpqeWx2ZHhnZ2Rwd3c1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmUYzs2dIvMw4EBFx4/giphy.gif" width = 75px>  </picture> 403 Bypass
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width = 75px>  </picture> 403 Bypass
 
 <br>
 
- ** "403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
+ "403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
 
 Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
@@ -23,15 +23,16 @@ Es la colección de informes más completa que pude lograr, buscando en diferent
 
 Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b>Lanza del Cielo Invertida</b>.<br><br>
 
-Saludos. ** 
+Saludos.
 
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NxY2JzdWxmeHVqeWtxenp5dTIybWxlMWZ6dnRmcTZsemNwYW4zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0Q6VlwzeMhuL7xFCKG/giphy.gif" width = 80px>  </picture> 70 Informes de bug bounty de 403 bypass
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width = 80px>  </picture> Informes de bug bounty de 403 bypass
 
+<br><br>
 
 **“En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.”**
 <br><br>
@@ -119,6 +120,5 @@ https://medium.com/@rupaksahoo9/403-401-forbidden-bypass-automatic-tool-87b01571
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Cada informe asimilado de 403 bypass es camino.”
-<br>
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Cada informe asimilado de 403 bypass es camino.”<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>
+<br><picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
