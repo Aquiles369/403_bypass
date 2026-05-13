@@ -16,11 +16,11 @@
 
  𓆩⚜𓆪 403 Bypass 𓆩⚜𓆪 es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
 
-Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
+✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
-<b>Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
+<b> ✦ Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
 
-Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b> ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
+✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b> ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
 
 𓆩⚜𓆪 Saludos 𓆩⚜𓆪
 
@@ -33,7 +33,7 @@ Las técnicas y patrones generales de cada informe me los reservo, al menos hast
 
 <br><br>
 
-**“En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.”**
+**✦ “En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.”**
 <br><br>
 
 
