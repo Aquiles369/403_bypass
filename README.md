@@ -15,7 +15,7 @@
 
 <br>
 
- **"403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
+ ** "403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
 
 Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
@@ -23,7 +23,7 @@ Es la colección de informes más completa que pude lograr, buscando en diferent
 
 Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b>Lanza del Cielo Invertida</b>.<br><br>
 
-Saludos.** 
+Saludos. ** 
 
 
 <br>
