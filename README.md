@@ -38,7 +38,7 @@
 <br><br>
 
 
-## ꧁Lista de informes link directo꧂
+## ꧁ Lista de informes link directo ꧂
 ```yam
 https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b
 https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4
