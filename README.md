@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
