@@ -10,26 +10,26 @@
 
 ##
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width = 75px>  </picture> 403 Bypass
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width = 75px>  </picture> ༒︎ 403 Bypass ༒︎
 
 <br>
 
- "403 Bypass" es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
+ 𓆩⚜𓆪 403 Bypass 𓆩⚜𓆪 es el arte de acceder a recursos restringidos que devuelven un error 403 Forbidden, lo cual suele esconder paneles de administración, archivos de configuración o datos sensibles, Comparto esta lista que reuní tras leer y analizar en detalle cada informe que uno puede encontrarse sobre reportes de 403 Bypass en bug bounty.<br><br>
 
 Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
 <b>Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
 
-Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b>Lanza del Cielo Invertida</b>.<br><br>
+Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b> ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
 
-Saludos.
+𓆩⚜𓆪 Saludos 𓆩⚜𓆪
 
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width = 80px>  </picture> Informes de bug bounty de 403 bypass
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width = 80px>  </picture> ༒︎ Informes de bug bounty de 403 bypass ༒︎
 
 <br><br>
 
@@ -37,7 +37,7 @@ Saludos.
 <br><br>
 
 
-## Lista de informes link directo
+## ꧁  Lista de informes link directo ꧂
 ```yam
 https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b
 https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4
