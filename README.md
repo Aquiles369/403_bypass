@@ -20,7 +20,8 @@
 
 <b> ✦ Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
 
-✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b> ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
+✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en 
+  día llamada <b>  ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
 
 𓆩⚜𓆪 Saludos 𓆩⚜𓆪
 
@@ -33,11 +34,11 @@
 
 <br><br>
 
-**✦ “En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.”**
+**✦ En esta sección encontrarás 70 informes reales sobre análisis de 403 bypass que leí, estudié y guarde en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
-## ꧁  Lista de informes link directo ꧂
+## ꧁Lista de informes link directo꧂
 ```yam
 https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b
 https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4
